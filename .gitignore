@@ -16,3 +16,5 @@
 !*.py
 !*.R
 !*notes*
+!*.csv
+!*.tsv

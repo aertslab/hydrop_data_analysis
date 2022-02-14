@@ -1,7 +1,7 @@
 nbr_reads:	100000
-total_bc_found	0
-nbr_bc_0_mismatches	0
-nbr_bc_1_mismatches	0
-nbr_bc_2_mismatches	0
-nbr_bc_3_mismatches	0
-nbr_bc_uncorrected	100000
+total_bc_found	86473
+nbr_bc_0_mismatches	79085
+nbr_bc_1_mismatches	4104
+nbr_bc_2_mismatches	1473
+nbr_bc_3_mismatches	1811
+nbr_bc_uncorrected	13527
